@@ -24,7 +24,7 @@ conda activate pggrl
 pip install -r requirements.txt
 ```
 
-## Runing
+## Running
 ```
 python pggrl.py
 ```
