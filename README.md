@@ -31,7 +31,7 @@ python pggrl.py
 
 ## Results
 The core code of paper is provided here. 'pggrl.py' can plot the evolutionary process of various strategies under various parameter settings. Other results in the paper can be obtained by modifying this code. The example  of  results which are obtained from 'pggrl.py' are shown below:
-![](img/figure1.jpg)![](img/figure2.jpg)
+![](img/figure1.jpg=600x600)![](img/figure2.jpg=600x600)
 
 
 ## Citation
