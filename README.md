@@ -37,11 +37,11 @@ The core code of paper is provided here. 'pggrl.py' can plot the evolutionary pr
 ## Citation
  Please cite this work if you find it useful:
 ```
-@article{zhou2020learning,
-  title={Learning Implicit Credit Assignment for Cooperative Multi-Agent Reinforcement Learning}, 
-  author={Meng Zhou and Ziyu Liu and Pengwei Sui and Yixuan Li and Yuk Ying Chung},
-  journal={arXiv preprint arXiv:2007.02529},
-  year={2020}
+@article{zhang4603682exploring,
+  title={Exploring Cooperative Evolution with Tunable Payoff's Loners Using Reinforcement Learning},
+  author={Zhang, Huizhen and An, Tianbo and Yan, Pingping and Hu, Kaipeng and An, Jinjin and Shi, Lijuan and Zhao, Jian and Wang, Jingrui},
+  journal={Available at SSRN 4603682},
+  year={2023}
 }
 ```
 
