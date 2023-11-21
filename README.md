@@ -46,4 +46,4 @@ The core code of paper is provided here. 'pggrl.py' can plot the evolutionary pr
 ```
 
 ## Contact
-Please email [Huizhen Zhang](zhz943600@gmail.com) or [Jingrui Wang](wangjingrui530@gmail.com)  for further questions.
+Please email Huizhen Zhang(zhz943600@gmail.com) or [Jingrui Wang](https://scholar.google.com/citations?user=oiu-yTYAAAAJ&hl=zh-CN)(wangjingrui530@gmail.com)  for further questions.
