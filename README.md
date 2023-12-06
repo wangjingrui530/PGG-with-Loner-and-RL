@@ -3,7 +3,7 @@
 # PGG-with-Loner-and-RL
 Imitation and replication have emerged as a paradigm in numerous studies that explore the evolution of cooperative behavior. Since they embrace the essence of natural selection, it is widely recognized in exploring the evolution of biological behaviors. However, it is not easy to express the way individuals select and optimize in these simple and elegant ways in the complex and variable interactive environments. Currently, reinforcement learning is widely used in the study of strategy updating dynamics and agent learning processes in game theory. Therefore, we introduce the Q-learning algorithms into the voluntary public goods game to explore the impact of cooperative evolution.
 
-This repository hosts the source code of paper of **"Exploring cooperative evolution with tunable payoff's loners using reinforcement learning"**.
+This repository hosts the source code of paper of **[Exploring cooperative evolution with tunable payoff's loners using reinforcement learning]{https://www.sciencedirect.com/science/article/pii/S0960077923012602}**.
 
 ## Requirements
 It is worth mentioning that because python runs slowly, we use **numba** library to improve the speed of code running.
