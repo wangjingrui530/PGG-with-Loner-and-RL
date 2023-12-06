@@ -37,11 +37,17 @@ The core code of paper is provided here. 'pggrl.py' can plot the evolutionary pr
 ## Citation
  Please cite this work if you find it useful:
 ```
-@article{zhang4603682exploring,
-  title={Exploring Cooperative Evolution with Tunable Payoff's Loners Using Reinforcement Learning},
-  author={Zhang, Huizhen and An, Tianbo and Yan, Pingping and Hu, Kaipeng and An, Jinjin and Shi, Lijuan and Zhao, Jian and Wang, Jingrui},
-  journal={Available at SSRN 4603682},
-  year={2023}
+@article{ZHANG2024114358,
+title = {Exploring cooperative evolution with tunable payoff’s loners using reinforcement learning},
+journal = {Chaos, Solitons & Fractals},
+volume = {178},
+pages = {114358},
+year = {2024},
+issn = {0960-0779},
+doi = {https://doi.org/10.1016/j.chaos.2023.114358},
+url = {https://www.sciencedirect.com/science/article/pii/S0960077923012602},
+author = {Huizhen Zhang and Tianbo An and Pingping Yan and Kaipeng Hu and Jinjin An and Lijuan Shi and Jian Zhao and Jingrui Wang},
+keywords = {Public goods game, Self-regarding Q-learning, Human cooperation, Loner}
 }
 ```
 
