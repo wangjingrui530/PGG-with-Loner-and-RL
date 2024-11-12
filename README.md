@@ -52,4 +52,4 @@ keywords = {Public goods game, Self-regarding Q-learning, Human cooperation, Lon
 ```
 
 ## Contact
-Please email Huizhen Zhang(zhz943600@gmail.com) or [Jingrui Wang](https://scholar.google.com/citations?user=oiu-yTYAAAAJ&hl=zh-CN)(wangjingrui530@gmail.com)  for further questions.
+Please email Huizhen Zhang(zhz943600@gmail.com) or [Jingrui Wang](https://scholar.google.com/citations?user=oiu-yTYAAAAJ&hl=en)(wangjingrui530@gmail.com)  for further questions.
